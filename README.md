@@ -1,6 +1,9 @@
 # height-diameter-models-review-glm-forest
 Systematic review and modeling of height-diameter relationships in forest biometrics using GLM and nonlinear models.
 
+Paper: https://doi.org/10.1505/146554824839334687
+
+
 ## Introduction
 
 The height-diameter relationship is one of the most fundamental components in forest biometrics, playing a key role in forest inventory, volume estimation, and growth modeling. Accurate estimation of tree height from diameter is essential, especially in large-scale inventories where measuring height directly is costly and time-consuming.
